@@ -12,7 +12,10 @@ This project provides a **basic implementation of a blockchain** in JavaScript f
 ---
 
 ## **Requirements**
-- [Node.js](https://nodejs.org) (Version 12+ recommended)
+- [Node.js](https://nodejs.org) (Version 18+ recommended)
+- ```bash
+  docker run --name redis-container -d redis
+
 
 ---
 
