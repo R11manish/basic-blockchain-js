@@ -15,8 +15,6 @@ This project provides a **basic implementation of a blockchain** in JavaScript f
 - [Node.js](https://nodejs.org) (Version 18+ recommended)
 - ```bash
   docker run --name redis-container -d redis
-
-
 ---
 
 ## **Getting Started**
@@ -25,3 +23,4 @@ This project provides a **basic implementation of a blockchain** in JavaScript f
    ```bash
    git clone https://github.com/R11manish/basic-blockchain-js.git
    cd basic-blockchain-js
+   pnpm install
