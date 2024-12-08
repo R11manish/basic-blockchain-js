@@ -20,5 +20,5 @@ This project provides a **basic implementation of a blockchain** in JavaScript f
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/r11manish/basic-blockchain-js.git
+   git clone https://github.com/R11manish/basic-blockchain-js.git
    cd basic-blockchain-js
